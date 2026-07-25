@@ -1,6 +1,5 @@
 ## Hi there 👋
-## I’m currently learning Python & java.
-## i also use linux bc its the best
+## I’m currently learning java.
 
 
 
