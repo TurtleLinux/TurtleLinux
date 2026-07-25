@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I’m currently learning java.
+## I’m currently learning C++.
 
 
 
